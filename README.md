@@ -38,4 +38,4 @@ deshalb verlinke ich euch hier nun dieses Projekt und hoffe das es hinhaut
 ### gäbe es hier eine Kommentarfunktion, würde ich euch darum bitte einen Kommentar da zu lassen
 
 # :p
-# <u>Leider gibt es diesen nicht... deshalb fuxx U</u>
+# <u>Leider gibt es diese nicht... deshalb fuxx U</u>
