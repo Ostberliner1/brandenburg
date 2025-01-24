@@ -15,3 +15,6 @@ Falls ihr euch fragt, was genau hier meine Intention ist, ich habe keine Ahnung 
 
 <img src="https://user.myownmusic.de/artist_pics/109780.jpg">
 															 
+# Falls euch interessiert was ich am liebsten esse, Habt ihr hier den Link zu [(Patricks Lieblingsrezept)](https://www.chefkoch.de/rezepte/689991171467187/Huehnerfrikassee.html)
+                                                             
+                                                        
