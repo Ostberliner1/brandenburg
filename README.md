@@ -33,3 +33,9 @@ deshalb verlinke ich euch hier nun dieses Projekt und hoffe das es hinhaut
 </ul>
 </body>
 
+# Auch wenn es hier etwaas verwirrend zu sein scheint,
+## freue ich mich darüber euch hier gesehen zu haben.
+### gäbe es hier eine Kommentarfunktion, würde ich euch darum bitte einen Kommentar da zu lassen
+
+# <u>Leider gibt es diesen nicht... deshalb fuxx U</u>
+# :p
