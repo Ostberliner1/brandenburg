@@ -24,3 +24,12 @@ deshalb verlinke ich euch hier nun dieses Projekt und hoffe das es hinhaut
 
 [(Mein Projekt)](https://github.com/Ostberliner1/brandenburg.git)
 
+<body>
+    <h2>Mein Verplantheitsgrad</h2>
+</ul>
+<li> Niedrig </li>
+<li> Hoch </li>
+<li> Lass dich einliefern </li>
+</ul>
+</body>
+
