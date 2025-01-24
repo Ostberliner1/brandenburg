@@ -1,6 +1,6 @@
 # log (Kommentar für mich)
 *.log
-*.sad.lustig
+*.happy.lustig
 
 # Betriebssystem-Dateien
 *.DS_Store
