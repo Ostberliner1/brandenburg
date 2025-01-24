@@ -1,0 +1,10 @@
+# log (Kommentar für mich)
+*.log
++.sad.lustig
+
+# Betriebssystem-Dateien
+*.DS_Store
+Thumbs.db
+
+# Ordner, die nicht ins Repo sollen
+privat/
