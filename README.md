@@ -2,7 +2,7 @@
 ## das ist nur ein Test
 ### Ich hoffe es geht euch gut!?
 
-Falls ihr euch fragt, was genau hier meine Intention ist, ich habe keine Ahnung doch wichtig ist es zu wissen, das eine meiner Aufgaben daraus besteht hier ein Foto und ein Link zu erstellen...denke ich.
+Falls ihr euch fragt, was genau hier meine Intention ist, ich habe keine Ahnung doch wichtig ist es zu wissen, das eine meiner Aufgaben darin besteht hier ein Foto und ein Link zu erstellen...denke ich.
 
 *Ich habe Lust einige Sachen zu testen*
 # _ich hoffe es gefällt euch_
