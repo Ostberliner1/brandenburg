@@ -37,5 +37,5 @@ deshalb verlinke ich euch hier nun dieses Projekt und hoffe das es hinhaut
 ## freue ich mich darüber euch hier gesehen zu haben.
 ### gäbe es hier eine Kommentarfunktion, würde ich euch darum bitte einen Kommentar da zu lassen
 
-# <style>OOFFFF</style> <u>Leider gibt es diesen nicht... deshalb fuxx U</u>
 # :p
+# <u>Leider gibt es diesen nicht... deshalb fuxx U</u>
